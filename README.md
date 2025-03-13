@@ -28,14 +28,14 @@ Cyber summer school, Brussels, Belgium
 ### Cybersecurity Trainee
 *Mar 2024 – Sep 2024*  
 BeCode, Brussels, Belgium
-- Developed security tools using Python and Shell scripting.
+- Developed secure code for database operations.
 - Performed vulnerability assessments and implemented secure system configurations.
 
 ### ICT Operator
 *Apr 2023 – Feb 2024*  
 Belgian Defence, Peutie, Belgium
 - Managed critical communications systems and maintained strict operational security.
-- Coordinated with multinational teams in various operations.
+- Coordinated with multinational teams in various operations through satellite communication.
 
 ---
 
@@ -52,11 +52,3 @@ Belgian Defence, Peutie, Belgium
 ### IDY
 [https://idy.pindjouf.xyz](https://idy.pindjouf.xyz) | *Launched Jan 2025*
 - Visualization web app for the nmap network scanner.
-
----
-
-## Technical Skills
-
-- **Security:** ELK Stack (SIEM), Wireshark, Burp Suite, Metasploit, Nmap, Nessus, OWASP, MITRE ATT&CK, IDA free, Ghidra, Splunk, Malware Analysis, Pentesting, Reverse Engineering, Forensics
-- **Programming & Scripting:** Rust, Python, JavaScript/TypeScript, Bash, Verilog, C/C++, Powershell, Batch, ARM assembly, SQL
-- **Web:** WebAssembly, React, Svelte/SvelteKit, Node.js, REST APIs, Flask, Jinja
